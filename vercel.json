@@ -1,0 +1,6 @@
+{
+    "routes": [
+        {"handle": "filesystem"},
+        { "src": "/blog.xml", "dest": "https://blog.jerryz.com.cn/sitemap.xml" },
+    ]
+}
