@@ -1,6 +1,7 @@
 {
     "routes": [
         {"handle": "filesystem"},
-        { "src": "/blog.xml", "dest": "https://blog.jerryz.com.cn/sitemap.xml" }
+        { "src": "/blog.xml", "dest": "https://blog.jerryz.com.cn/blog.xml" },
+        { "src": "/s.xml", "dest": "/sitemap.xml" },
     ]
 }
