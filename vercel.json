@@ -5,6 +5,7 @@
         { "src": "/s.xml", "dest": "/sitemap.xml" },
         { "src": "/ss.xml", "dest": "/sitemap.xml" },
         { "src": "/cn.xml", "dest": "https://cn.jerryz.com.cn/sitemap.xml" },
+        { "src": "/md.xml", "dest": "https://md.jerryz.com.cn/sitemap.xml" },
         { "src": "/poems.xml", "dest": "https://poems.jerryz.com.cn/sitemap.xml" }
     ]
 }
