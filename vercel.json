@@ -7,6 +7,7 @@
         { "src": "/cn.xml", "dest": "https://cn.jerryz.com.cn/sitemap.xml" },
         { "src": "/md.xml", "dest": "https://md.jerryz.com.cn/sitemap.xml" },
         { "src": "/poems.xml", "dest": "https://poems.jerryz.com.cn/sitemap.xml" },
-        { "src": "/ct.xml", "dest": "https://ct.jerryz.com.cn/sitemap.xml" }
+        { "src": "/ct.xml", "dest": "https://ct.jerryz.com.cn/sitemap.xml" },
+        { "src": "/tf.xml", "dest": "https://toefl.jerryz.com.cn/sitemap.xml" }
     ]
 }
